@@ -18,15 +18,16 @@ GeoAttendanceApp is a mobile application designed to streamline class attendance
 
 ## 📱 Screenshots
 
-![authscreen](https://github.com/user-attachments/assets/0be22dd6-40f9-462c-9369-08e011ae9704)
-![adminauthscreen](https://github.com/user-attachments/assets/c1574e45-b840-48ee-92c4-22b0aa5cdb83)
-![studentdashboard](https://github.com/user-attachments/assets/af706475-15de-46c2-8b19-9251dbaa63a8)
-![admindashboard](https://github.com/user-attachments/assets/21e13afb-622a-48e9-bfa0-089a4268f2aa)
-![image](https://github.com/user-attachments/assets/50846477-3690-4eb2-805b-ad752e4f4545)
-![image](https://github.com/user-attachments/assets/f9be23ee-4ce5-47e6-b276-dc69eb1beb69)
-![image](https://github.com/user-attachments/assets/0038ed66-5807-473d-a490-0ae8cc958b03)
-![image](https://github.com/user-attachments/assets/3203bb76-f98d-49ba-96e9-23810639a21c)
-
+<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
+  <img src="https://github.com/user-attachments/assets/0be22dd6-40f9-462c-9369-08e011ae9704" width="250"/>
+  <img src="https://github.com/user-attachments/assets/c1574e45-b840-48ee-92c4-22b0aa5cdb83" width="250"/>
+  <img src="https://github.com/user-attachments/assets/af706475-15de-46c2-8b19-9251dbaa63a8" width="250"/>
+  <img src="https://github.com/user-attachments/assets/21e13afb-622a-48e9-bfa0-089a4268f2aa" width="250"/>
+  <img src="https://github.com/user-attachments/assets/50846477-3690-4eb2-805b-ad752e4f4545" width="250"/>
+  <img src="https://github.com/user-attachments/assets/f9be23ee-4ce5-47e6-b276-dc69eb1beb69" width="250"/>
+  <img src="https://github.com/user-attachments/assets/0038ed66-5807-473d-a490-0ae8cc958b03" width="250"/>
+  <img src="https://github.com/user-attachments/assets/3203bb76-f98d-49ba-96e9-23810639a21c" width="250"/>
+</div>
 
 ## 🧑‍💻 Getting Started
 
