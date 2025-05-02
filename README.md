@@ -45,7 +45,8 @@ Navigate to the Project Directory:
 flutter pub get
 
 ## 3.Configure Firebase:
-Add your google-services.json (for Android) and GoogleService-Info.plist (for iOS) files to the respective directories.
+Add your google-services.json (for Android) and 
+GoogleService-Info.plist (for iOS) files to the respective directories.
 
 ## 4. Add Google Maps API Key:
 For Android: Add your API key in android/app/src/main/AndroidManifest.xml.
